@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShpeWebV2/static/css/main.0ee60422.css",
+    "main.js": "/ShpeWebV2/static/js/main.d7f5b593.js",
+    "static/js/453.ead2dd97.chunk.js": "/ShpeWebV2/static/js/453.ead2dd97.chunk.js",
+    "index.html": "/ShpeWebV2/index.html",
+    "main.0ee60422.css.map": "/ShpeWebV2/static/css/main.0ee60422.css.map",
+    "main.d7f5b593.js.map": "/ShpeWebV2/static/js/main.d7f5b593.js.map",
+    "453.ead2dd97.chunk.js.map": "/ShpeWebV2/static/js/453.ead2dd97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ee60422.css",
+    "static/js/main.d7f5b593.js"
+  ]
+}
